@@ -80,7 +80,7 @@ module Converted
       else
         puts "Error: ICO conversion failed."
       end
-    end    
+    end
 
     private
 

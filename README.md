@@ -22,7 +22,7 @@ gem install converted
 
 ## Usage
 
-### PNG
+### PNG Example
 
 ```rb
 converter = Converted::PNG.new('/root/someuser/converted/test/test_assets/image/test_image.png')
@@ -41,6 +41,37 @@ Note: You can use `irb` to test from terminal:
 # For example, png conversion
 irb -Ilib -r converted/png
 ```
+
+### Other options
+1. gif to:
+  * jpg
+  * png
+  * webp
+  * avif
+  * bmp
+  * ico
+  * webm
+  * avi
+  * mp4
+2. jpg to:
+  * gif
+  * png
+  * webp
+  * avif
+  * bmp
+  * ico
+3. mp4 to:
+  * mp3
+  * gif
+  * webm
+  * avi
+4. png to:
+  * jpg
+  * gif
+  * webp
+  * avif
+  * bmp
+  * ico
 
 ## Development
 
