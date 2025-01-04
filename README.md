@@ -2,6 +2,8 @@
 
 Converted is a shoot-from-the-hip media asset conversion system. It aims to convert video, audio, images, and text into alternate formats without any additional configuration or modification needed. This is a one-size-fits-all approach and may not be appropriate if you desire specific outcomes for your converted file.
 
+**Note:** This is an early stage and the project description is aspirational. We don't yet support text conversion and many other conversion types. Our goal is for tech-savvy people to clone this repo and have a self-hosted way to convert images for themselves and their friends/colleagues/pets/whatever.
+
 ## Installation
 
 Add this line to your application's Gemfile:
