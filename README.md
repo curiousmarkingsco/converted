@@ -4,6 +4,8 @@ Converted is a shoot-from-the-hip media asset conversion system. It aims to conv
 
 **Note:** This is an early stage and the project description is aspirational. We don't yet support text conversion and many other conversion types. Our goal is for tech-savvy people to clone this repo and have a self-hosted way to convert images for themselves and their friends/colleagues/pets/whatever.
 
+For a web interface of this functionality, [see convert**Sage**, `converted` in Ruby on Rails form](https://github.com/curiousmarkingsco/convertSage).
+
 ## Installation
 
 Add this line to your application's Gemfile:
